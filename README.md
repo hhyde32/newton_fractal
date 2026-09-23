@@ -19,6 +19,20 @@ pixels; the brighter a pixel is the fewer iterations it took to arrive at a root
 #### Dark fractal
 ![Dark fractal](images/fractal-dark.png)
 
+## Requirements
+
+- Java 17 or later
+
+## Output
+
+Generated images are saved in the `images` directory.
+
+## Project structure
+
+- `Complex.java` — complex-number operations
+- `Polynomial.java` — polynomial representation and evaluation
+- `Secant.java` — root-finding algorithm
+- `Main.java` — image generation and program entry point
 ## Usage
 
 Clone the repository:
