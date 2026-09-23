@@ -24,7 +24,7 @@ pixels; the brighter a pixel is the fewer iterations it took to arrive at a root
 Clone the repository:
 
 ```bash
-git clone https://github.com/hhyde32/matvar.git
+git clone https://github.com/hhyde32/newton_fractal.git
 cd matvar
 pip install -r requirements.txt
 ```
