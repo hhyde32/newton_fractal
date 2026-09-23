@@ -14,10 +14,10 @@ with a width of $4$. The dark fractal uses the number of iterations to alter the
 pixels; the brighter a pixel is the fewer iterations it took to arrive at a root.
 
 #### Light fractal
-![Light fractal](images/fractal-light.png)
+![Light Newton fractal](images/light_fractal.png)
 
 #### Dark fractal
-![Dark fractal](images/fractal-dark.png)
+![Dark Newton fractal](images/dark_fractal.png)
 
 ## Requirements
 
