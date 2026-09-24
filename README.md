@@ -1,5 +1,5 @@
-# Newton Fractal
-This project generates [Newton fractal](https://en.wikipedia.org/wiki/Newton_fractal) images from 
+# Polynomial Fractals
+This project generates fractal images from 
 polynomials, using the [Secant algorithm](https://en.wikipedia.org/wiki/Secant_method) to find roots.
 
 The main interest of this project is to study the behavior of root convergence in the complex plane.
