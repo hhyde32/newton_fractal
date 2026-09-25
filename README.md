@@ -40,7 +40,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/hhyde32/newton_fractal.git
 cd matvar
-pip install -r requirements.txt
 ```
 
 Run the following commands to compile and save the generated fractals to the images directory.
